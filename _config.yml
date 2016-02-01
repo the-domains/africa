@@ -1,0 +1,28 @@
+name: Africa
+favicon: null
+layout_spectrum: 0.8598627883475274
+typography_spectrum: 0.27006828458979726
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.14311456703580916
+  lightness: 0.16421631490811706
+  saturation: 0.7422165924217552
+  rhythmicContrast: 0.3167904044967145
+purpose: []
